@@ -6,5 +6,5 @@
 
 ### Prosjektrapporter
 
-  - <a href="https://drive.google.com/file/d/1Ee7Aptdos7ClKNlDpI_9Eq9BLxBPCra4/view?usp=sharing" Download> Forprosjekt </a>
+  - <a href="https://drive.google.com/file/d/1tpCZ2iEodQI4Or-e7C9W4X8RTy9akMgB/view?usp=sharing" Download> Forprosjekt </a>
 
