@@ -2,7 +2,7 @@
 
 - Ammar Ahmed
 - Anojh Thirukumar
-- Hajhain Nirmalan er her igjen
+- Hajhain Nirmalan 
 
 
 
