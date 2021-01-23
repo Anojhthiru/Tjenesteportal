@@ -1,8 +1,8 @@
 ## Gruppemedlemmer
 
-- Ammar Ahmed
-- Anojh Thirukumar
-- Hajhain Nirmalan
+- Ammar Ahmed – s326182 – INFORMATIK
+- Anojh Thirukumar – s325907 – HINGDATA
+- Hajhain Nirmalan – s331425 – HINGDATA
 
 ### Prosjektrapporter
 
